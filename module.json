@@ -1,8 +1,8 @@
 {
-  "id": "module",
-  "title": "New Module",
+  "id": "ModuleTest",
+  "title": "ModuleTest",
   "description": "",
-  "version": "This is auto replaced",
+  "version": "Volume1",
   "library": "false",
   "manifestPlusVersion": "1.2.0",
   "compatibility": {
@@ -13,7 +13,7 @@
   "authors": [
     {
       "name": "The League of Extraordinary FVTT Developers",
-      "url": "https://github.com/League-of-Foundry-Developers",
+      "url": "https://github.com/stuhoffman",
       "discord": "discordID#0001"
     }
   ],
@@ -39,7 +39,7 @@
   ],
   "url": "This is auto replaced",
   "manifest": "https://github.com/stuhoffman/ModuleTest/releases/tag/Volume1/modules/json",
-  "download": "This is auto replaced",
+  "download": "ttps://github.com/stuhoffman/ModuleTest/releases/tag/Volume1/module.zip",
   "license": "LICENSE",
   "readme": "README.md",
   "media": [
